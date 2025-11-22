@@ -1,0 +1,60 @@
+{
+  "5610681902": [
+    {
+      "url": "https://open.spotify.com/track/3hHz4k9FvYj4PQx0dhN0vh?si=XMvgXIeHTquXI9FcnwOrUw",
+      "status": "error",
+      "method_used": null,
+      "error": "Invalid URL",
+      "created_at": "2025-11-22T22:52:11.792127+00:00"
+    },
+    {
+      "url": "https://www.instagram.com/reel/DQlbTT1DUqv/?igsh=cW5leXpjenZxc3Js",
+      "status": "success",
+      "method_used": "ytdlp_advanced",
+      "error": null,
+      "created_at": "2025-11-22T01:25:53.790167+00:00"
+    },
+    {
+      "url": "https://www.instagram.com/reel/DQlbTT1DUqv/?igsh=cW5leXpjenZxc3Js",
+      "status": "success",
+      "method_used": "ytdlp_advanced",
+      "error": null,
+      "created_at": "2025-11-22T01:20:34.164845+00:00"
+    },
+    {
+      "url": "https://www.instagram.com/reel/DRNGIimCuCq/?igsh=MTN2ampncTE3Z3oybQ==",
+      "status": "success",
+      "method_used": "ytdlp_advanced",
+      "error": null,
+      "created_at": "2025-11-20T21:48:56.852790+00:00"
+    },
+    {
+      "url": "https://www.instagram.com/reel/DP9PFC0jDtC/?igsh=MTJwcjAzanlpYmlzYg==",
+      "status": "success",
+      "method_used": "ytdlp_advanced",
+      "error": null,
+      "created_at": "2025-11-20T21:47:08.936486+00:00"
+    },
+    {
+      "url": "https://www.instagram.com/reel/DRHvUl2j_sc/?igsh=MWVxdzYycnkzdnFkNA==",
+      "status": "success",
+      "method_used": "json_cdn",
+      "error": null,
+      "created_at": "2025-11-20T02:08:55.745491+00:00"
+    },
+    {
+      "url": "https://www.instagram.com/reel/DQj2RP-jQ1z/?igsh=OWRrbThrbTNndHZ2",
+      "status": "success",
+      "method_used": "json_cdn",
+      "error": null,
+      "created_at": "2025-11-19T02:33:50.650836+00:00"
+    },
+    {
+      "url": "https://www.instagram.com/reel/DRHvUl2j_sc/?igsh=MWVxdzYycnkzdnFkNA==",
+      "status": "success",
+      "method_used": "json_cdn",
+      "error": null,
+      "created_at": "2025-11-19T02:17:09.506225+00:00"
+    }
+  ]
+}

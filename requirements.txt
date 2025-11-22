@@ -1,0 +1,10 @@
+python-telegram-bot==20.7
+pyTelegramBotAPI==4.14.0
+yt-dlp==2023.12.30
+requests==2.31.0
+aiohttp==3.9.1
+instaloader==4.10.3
+beautifulsoup4==4.12.2
+lxml==5.1.0
+jdatetime==4.1.0
+moviepy==1.0.3
